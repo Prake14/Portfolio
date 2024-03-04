@@ -1,0 +1,90 @@
+.workslist{
+    background-color:black;
+    width: 700px;
+    height: 700px;
+    border-radius: 9px;
+    margin-left: 490px;
+    margin-top: 50px;
+    margin-bottom:  20px;
+}
+.workname{
+    color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-variant: small-caps;
+    
+}
+.srpics{
+    width: 70px;
+    padding-left: 30px;
+    padding-top: 10px;
+    height: 70px;
+
+    
+}
+.srbox{
+    background-color: rgb(0, 0, 0);
+    margin-left: 20px;
+    margin-right: 350px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: grey;
+    height: 210px;
+    margin-top: 30px;
+    
+}
+.workbox{
+    border-style: solid;
+    border-color: grey;
+    border-radius: 9px;
+    margin-left: 20px;
+    margin-right: 50px;
+    height: 570px;
+}
+.srpic{
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+}
+.ml{
+    background-color: black;
+    padding-left: 20px;
+    color: grey;
+    font-family:Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+.mlname{
+    color: white;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+.portfoliobox{
+    border-radius: 9px;
+    background-color: rgb(0, 0, 0);
+    height: 210px;
+    margin-left: 320px;
+    margin-right: 20px;
+    margin-top: -213px;
+    border-style: solid;
+    border-color: grey;
+    width: 270px;
+
+}
+.portimg{
+    padding-left: 90px;
+    width: 100px;
+}
+.portname{
+    color:grey;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+.portfolio{
+    color: white;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}

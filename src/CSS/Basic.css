@@ -1,0 +1,392 @@
+.Basic{
+    color: aqua;
+    background-color: black;
+    width: 400px;
+    height: 700px;
+    margin-left: 20px;
+    margin-top: 180px;
+    border-radius: 9px;
+    margin-bottom: 70px;
+
+}
+
+.pics{
+    width:190px;
+    height:190px;
+    padding-left: 100px;
+    border-radius: 45px;
+    margin-top: -90px;
+}
+.peru{
+    padding-left: 110px;
+    color:white;
+    
+}
+.jd{
+    background-color:brown;
+    border-radius: 9px;
+    width: 100px;
+    height: 30px;
+    color:white;
+    padding-left: 39px;
+    padding-top: 5px;
+    font-style: italic;
+    margin-left: 10px;
+
+
+}
+.insta{
+    width:30px;
+    padding-top: 10px;
+    cursor: pointer;
+
+}
+.insta:hover{
+    scale: 0.8;
+    transition: duration 3sec;
+}
+.linked{
+    width:30px;
+    padding-left: 30px;
+    cursor: pointer;
+}
+.linked:hover{
+    scale: 0.8;
+    transition: duration 3sec;
+}
+.github{
+    width: 30px;
+    padding-left: 30px;
+    cursor: pointer;
+}
+.github:hover{
+    scale: 0.8;
+    transition: duration 3sec ;
+}
+.logos{
+    flex-direction: column;
+    margin-top: 20px;
+}
+.main{
+    background-color:rgb(167, 167, 210);
+    margin-top: 60px;
+    margin-left: -90px;
+    margin-right: 20px;
+    border-radius: 9px;
+    height: 300px;
+
+
+}
+.main .mobile{
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+    border-radius: 9px;
+}
+.mobiles{
+    flex-direction: column;
+    padding-left: 110px;
+    margin-top: -70px;
+    margin-left: -20px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.number{
+    padding-left: 90px;
+    margin-top: -20px;
+    color: black;
+}
+.main .email{
+    width: 10px;
+}
+.emaillogo{
+    width: 50px;
+    padding-left: 20px;
+    border-radius: 9px;
+}
+.E{
+    padding-left: 90px;
+    margin-top: -70px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.id{
+    padding-left: 90px;
+    margin-top: -20px;
+    color: black;
+}
+.loc{
+    width: 50px;
+    padding-left: 20px;
+    border-radius: 9px;
+}
+.place{
+    padding-left: 90px;
+    margin-top: -70px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.hosur{
+    padding-left: 90px;
+    margin-top: -20px;
+    color: black;
+}
+.dob{
+    width: 50px;
+    padding-left: 20px;
+    border-radius: 9px;
+}
+.dd{
+    padding-left: 90px;
+    margin-top: -70px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.numbers{
+    padding-left: 90px;
+    margin-top: -20px;
+    color: black;
+}
+.content{
+    margin-left: 510px;
+    background-color: #7393B3;
+    width: 500px;
+    margin-top: -810px;
+    border-radius: 9px;
+    height: 110px;
+
+}
+.home{
+    width:50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    padding-right: 10px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.homename{
+  color: rgb(0, 0, 0);
+  padding-left: 64px;
+  margin-top: -50px;
+  cursor: pointer;
+  
+}
+.res{
+    width:50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 160px;
+    padding-bottom: 30px;
+    margin-top:-190px;
+    padding-right: 10px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-bottom: 35px;
+}
+.resname{
+    color: rgb(0, 0, 0);
+  padding-left: 165px;
+  margin-top: -85px;
+  cursor: pointer;
+}
+.workslogo{
+    width:50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 270px;
+    padding-bottom: 30px;
+    margin-top:-190px;
+    padding-right: 10px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-bottom: 55px;
+}
+.workword{
+    color: rgb(0, 0, 0);
+  padding-left: 281px;
+  margin-top: -105px;
+  cursor: pointer;
+}
+.contactimg{
+    width:50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 380px;
+    padding-bottom: 30px;
+    margin-top:-190px;
+    padding-right: 10px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-bottom: 75px;
+}
+.contactname{
+    color: rgb(0, 0, 0);
+  padding-left: 385px;
+  margin-top: -124px;
+  cursor: pointer;
+
+}
+.aboutcontent{
+    background-color:black;
+    width: 700px;
+    height: 690px;
+    border-radius: 9px;
+    margin-left: -30px;
+}
+.aboutname{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    color: white;
+    padding-left: 20px;
+    padding-top:  3px;
+}
+.aboutstory{
+    color: grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    padding-left: 20px;
+    font-style:italic
+}
+.what{
+    padding-left: 20px;
+    color:white;
+    font-style: italic;
+    padding-top: -10px;
+}
+.cloud{
+    background-color:rgb(0, 0, 0);
+    width: 290px;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-radius: 9px;
+    height: 200px;
+    border-style:solid;
+    border-color: #c1c4c7;
+}
+.cloudlogo{
+    width: 90px;
+    padding-left: 5px;
+}
+.cloud:hover{
+    scale: 0.9;
+    transition: duration 3sec;
+}
+.cloudperu{
+    padding-left: 110px;
+    margin-top: -100px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+
+}
+.cloudstory{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+
+}
+.webdeveloper{
+    background-color:rgb(0, 0, 0);
+    width: 290px;
+    padding-left: 20px;
+    margin-left: 360px;
+    border-radius: 9px;
+    height: 200px;
+    border-style:solid;
+    border-color: #c1c4c7;
+    margin-top: -204px;
+ 
+}
+.webdeveloperimg{
+    width: 110px;
+    margin-left: -20px;
+}
+.webdevelopername{
+    padding-left:110px;
+    margin-top: -120px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+.webdeveloperstory{
+    margin-top: 40px;
+    color:grey;
+}
+.webdeveloper:hover{
+    scale: 0.9;
+    transition: duration 3sec;
+}
+.photography{
+    background-color:rgb(0, 0, 0);
+    width: 290px;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-radius: 9px;
+    height: 200px;
+    border-style:solid;
+    border-color: #c1c4c7;
+    margin-top: 20px;
+}
+.photographys{
+    width:100px;
+    margin-left: -10px;
+}
+.photographyword{
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    margin-top: -90px;
+    color: white;
+}
+.photographystory{
+    margin-top: 60px;
+    color: grey;
+}
+.photography:hover{
+    scale: 0.9;
+    transition: duration 3sec;
+}
+.cnfull{
+    background-color:rgb(0, 0, 0);
+    width: 290px;
+    padding-left: 20px;
+    margin-left: 360px;
+    border-radius: 9px;
+    height: 200px;
+    border-style:solid;
+    border-color: #c1c4c7;
+    margin-top: -200px;
+}
+.cnimg{
+    width: 90px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.cnname{
+    padding-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    margin-top: -100px;
+    color: white;
+}
+.cnstory{
+    color: grey;
+}
+.cnfull:hover{
+    scale: 0.9;
+    transition: duration 3sec;
+}
+.align{
+    translate:-100% -5% 0;
+}
+

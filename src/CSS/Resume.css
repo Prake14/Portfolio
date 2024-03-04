@@ -1,0 +1,239 @@
+.Resumecontent{
+    background-color:black;
+    width: 700px;
+    height: 1010px;
+    border-radius: 9px;
+    margin-left: 490px;
+    margin-top: 50px;
+    margin-bottom:  20px;
+}
+.Educationname{
+    color:white;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: larger;
+    
+}
+.collegebox{
+    background-color: rgb(0, 0, 0);
+    border-radius: 9px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: grey;;
+}
+.clgyear{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+}
+.clgname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    color: white;
+    margin-top: -10px;
+}
+.ug{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+    margin-top: -10px;
+}
+.hsbox{
+    background-color: rgb(0, 0, 0);
+    margin-top: 15px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: grey;
+}
+.hsyear{
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+}
+.hsschoolname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    color: white;
+    padding-left: 20px;
+    margin-top: -10px;
+}
+.highschool{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+    padding-left: 20px;
+    margin-top: -10px;
+}
+.sslcbox{
+    background-color: rgb(0, 0, 0);
+    margin-top: 15px;
+    border-radius: 9px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: solid;
+    border-color: grey;
+    
+}
+.sslcyear{
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+}
+.sslcschoolname{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    padding-left: 20px;
+    margin-top: -10px;
+}
+.sslcschool{
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+    margin-top: -10px;  
+}
+.Skillslist{
+    background-color: rgb(0, 0, 0);
+    height: 400px;
+    border-radius: 9px;
+    margin-top: -10px;
+    border-style: solid;
+    border-color: grey;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+}
+.skillname{
+    color: white;
+    padding-left: -10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: larger;
+    padding-left: 290px;
+    margin-top: -10px;
+}
+.AWS{
+    color: white;
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+}
+.progressbaraws{
+    width: 97%;
+    height: 15px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    
+    
+}
+.progressaws{
+    height: 100%;
+  border-radius: 10px;
+  background-color: #007bff; /* Default color */
+  width: 50%; /* Initial width */
+  transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+.cn{
+
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+    color: white;
+}
+.progressbarcn{
+    width: 101%;
+    height: 15px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.progresscn{
+    height: 100%;
+    border-radius: 10px;
+    background-color: #059c9a; /* Default color */
+    width: 70%; /* Initial width */
+    transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;  
+}
+.web{
+    color: white;
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+    color: white;
+
+}
+.progressbarweb{
+    width: 101%;
+    height: 15px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.progressweb{
+    height: 100%;
+    border-radius: 10px;
+    background-color: #ef0582; /* Default color */
+    width: 50%; /* Initial width */
+    transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+.cloudk{
+    color: white;
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+    color: white;
+}
+.progressbarcloud{
+    width: 101%;
+    height: 15px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.progresscloud{
+    height: 100%;
+    border-radius: 10px;
+    background-color: #dfef05; /* Default color */
+    width: 50%; /* Initial width */
+    transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+.mysql{
+    color: white;
+    padding-left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    font-size: medium;
+    color: white;
+}
+.progressbarsql{
+    width: 101%;
+    height: 15px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.progresssql{
+    height: 100%;
+    border-radius: 10px;
+    background-color: #a873af; /* Default color */
+    width: 40%; /* Initial width */
+    transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
